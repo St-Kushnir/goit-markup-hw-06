@@ -448,6 +448,7 @@ align-items: baseline;
 }
 
 .main-address {
+flex-grow: 1;
 margin-right: 70px;
 }
 
